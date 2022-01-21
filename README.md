@@ -11,17 +11,23 @@ Following modules need to be installed for it to work properly:
 - PyAutoGUI
 
 ### OpenCV:
-The pyqrcode module is a QR code generator that is simple to use and written in pure python. The module can automates most of the building process for creating QR codes. Most codes can be created using only two lines of code!
+OpenCV is a huge open-source library for computer vision, machine learning, and image processing. OpenCV supports a wide variety of programming languages like Python, C++, Java, etc. It can process images and videos to identify objects, faces, or even the handwriting of a human.
 
-Unlike other generators, all of the helpers can be controlled manually. You are free to set any or all of the properties of your QR code.
-
-It can be installed using "pip install PyQRCode"
+It can be installed using "pip install opencv-python"
 
 
 ### PyAutoGUI:
-PyPNG is pure Python library for saving and loading PNG images
+PyAutoGUI lets your Python scripts control the mouse and keyboard to automate interactions with other applications.
 
-It can be installed using "pip install pypng"
+PyAutoGUI has several features:
+
+- Moving the mouse and clicking in the windows of other applications.
+- Sending keystrokes to applications (for example, to fill out forms).
+- Take screenshots, and given an image (for example, of a button or checkbox), and find it on the screen.
+- Locate an application’s window, and move, resize, maximize, minimize, or close it (Windows-only, currently).
+- Display alert and message boxes.
+
+It can be installed using "pip install pyautogui"
 
 
 ## Contact Me: 
