@@ -3,7 +3,7 @@
 ## Project Description:
 In this project, we'll be making our own screen recorder in Python using some libraries.
 
-![Add Videos]()
+![Add Videos](https://github.com/HxnDev/Screen-Recorder-in-Python/blob/main/extras/output.avi)
 
 ## Requirements:
 Following modules need to be installed for it to work properly:
